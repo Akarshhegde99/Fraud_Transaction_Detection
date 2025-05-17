@@ -1,0 +1,10 @@
+# .gitignore
+
+Data files/
+*.csv
+*.zip
+*.pkl
+*.h5
+__pycache__/
+.env
+.DS_Store
