@@ -22,7 +22,6 @@ The project utilizes the following technologies and tools:
 
 ### Tools
 - **Pickle**: For saving and loading the pre-trained model.
-- **Jupyter Notebook**: For exploratory data analysis and model development (if applicable).
 
 ### Environment
 - **pip**: For managing Python dependencies.
@@ -62,6 +61,7 @@ Fraud_Transaction_Detection/
 - utils.py: Utility functions for data preprocessing.
 - fraud_model.pkl: Pre-trained fraud detection model.
 - requirements.txt: List of dependencies.
+
 
 
 
