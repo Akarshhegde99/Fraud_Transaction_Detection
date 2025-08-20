@@ -22,7 +22,9 @@ The application takes transaction data as input and uses the model to predict wh
 The result is displayed to the user, indicating whether the transaction is safe or fraudulent.
 
 5. Project Structure :
-Fraud_Transaction_Detection/├── .gitignore├── README.md├── app.py├── fraud_model.pkl├── model.py├── requirements.txt└── utils.py
+Fraud_Transaction_Detection/
+
+├── .gitignore├── README.md├── app.py├── fraud_model.pkl├── model.py├── requirements.txt└── utils.py
 
 
 - app.py: Main application script.
@@ -30,3 +32,4 @@ Fraud_Transaction_Detection/├── .gitignore├── README.md├── app
 - utils.py: Utility functions for data preprocessing.
 - fraud_model.pkl: Pre-trained fraud detection model.
 - requirements.txt: List of dependencies.
+
