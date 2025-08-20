@@ -36,6 +36,8 @@ The project utilizes the following technologies and tools:
 
 
 
+
+
 ## Working Process
 1. Data Preprocessing:
 The input transaction data is preprocessed using utility functions in utils.py.
@@ -60,5 +62,6 @@ Fraud_Transaction_Detection/
 - utils.py: Utility functions for data preprocessing.
 - fraud_model.pkl: Pre-trained fraud detection model.
 - requirements.txt: List of dependencies.
+
 
 
