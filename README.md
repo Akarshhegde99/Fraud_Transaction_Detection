@@ -8,6 +8,15 @@ Fraud Transaction Detection is a machine learning-based project designed to iden
 - Easy-to-use interface for transaction classification
 - Modular code structure for extensibility
 
+## Upload data
+![P1](CC1.png)
+
+## Evaluation of Model
+![P2](CC2.png)
+
+## Result
+![P3](CC4.png)
+
 ## Tech Stack
 
 The project utilizes the following technologies and tools:
@@ -61,6 +70,7 @@ Fraud_Transaction_Detection/
 - utils.py: Utility functions for data preprocessing.
 - fraud_model.pkl: Pre-trained fraud detection model.
 - requirements.txt: List of dependencies.
+
 
 
 
